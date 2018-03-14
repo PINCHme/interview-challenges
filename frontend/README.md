@@ -16,7 +16,7 @@ We want you to create a reusable component that helps our members know if their 
 ![Form example](https://cdn.rawgit.com/PINCHme/interview-challenges/master/frontend/comps/form.png)
 
 These are the five star statuses that should occur as the user fills out the form:
-![Statuses](https://cdn.rawgit.com/PINCHme/interview-challenges/master/frontend/comps/statuses.png)
+![Statuses](https://cdn.rawgit.com/PINCHme/interview-challenges/b22669f1/frontend/comps/states.png)
 
 If you should need it, the Sketch file is located [here](https://cdn.rawgit.com/PINCHme/interview-challenges/master/frontend/comps/frontend_challenge.sketch).
 
