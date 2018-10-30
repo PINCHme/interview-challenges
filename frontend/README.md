@@ -1,7 +1,7 @@
 # PINCHme
 ## Frontend Challenge
 
-The goal of this challenge is to generate a reusable component in either React or Vue.js. This type of challenge is an example of the types of challenges you would experience in your day-to-day as a frontend engineer at PINCHme.
+The goal of this challenge is to generate a reusable component in either React. This type of challenge is an example of the types of challenges you would experience in your day-to-day as a frontend engineer at PINCHme.
 
 ### Getting Started
 Please clone this repository and ensure all of your work is done in a feature branch:
